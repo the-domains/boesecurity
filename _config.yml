@@ -1,0 +1,28 @@
+name: BOESecurity
+favicon: null
+layout_spectrum: 0.6159352813847363
+typography_spectrum: 0.7701060373801738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.13274555373936892
+  lightness: 0.703429436776787
+  saturation: 0.5377942698542029
+  rhythmicContrast: 0.0639809041749686
+purpose: []
