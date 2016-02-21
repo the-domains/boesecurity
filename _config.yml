@@ -2,6 +2,7 @@ name: BOE Security
 favicon: null
 layout_spectrum: 0.6159352813847363
 typography_spectrum: 0.7701060373801738
+title: BOE Security
 cta:
   domain: null
   bucket: null
