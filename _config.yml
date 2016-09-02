@@ -1,20 +1,10 @@
 name: BOE Security
-favicon: null
 layout_spectrum: 0.6159352813847363
 typography_spectrum: 0.7701060373801738
-title: BOE Security
-cta:
-  domain: null
-  bucket: null
-  version: null
+cta: {}
 analytics:
   google: UA-74086689-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+opengraph: {}
 color:
   brandColors:
     - '#78b3dd'
@@ -27,3 +17,4 @@ color:
   saturation: 0.5377942698542029
   rhythmicContrast: 0.0639809041749686
 purpose: []
+title: BOE Security
